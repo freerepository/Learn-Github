@@ -29,4 +29,5 @@ bin/
 .DS_Store
 akash.txt
 akash
-.ram
+src/akash.java
+**/akash.java
